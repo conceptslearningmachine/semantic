@@ -1,3 +1,5 @@
+# github.com/conceptslearningmachine\
+
 # Semantic
 
 `semantic` is a Haskell library and command line tool for parsing, analyzing, and comparing source code.
